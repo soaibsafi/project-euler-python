@@ -68,5 +68,5 @@ def sieveOfAtkin(limit):
         else:pass
     return sum
 
-res = sieveOfAtkin(20)
+res = sieveOfAtkin(2000000)
 
