@@ -15,3 +15,8 @@
 #### :pushpin:**013** - [	Large sum](https://projecteuler.net/problem=13)
 #### :pushpin:**014** - [Longest Collatz sequence](https://projecteuler.net/problem=14)
 #### :pushpin:**015** - [Lattice paths](https://projecteuler.net/problem=15)
+#### :pushpin:**016** - [Power digit sum](https://projecteuler.net/problem=16)
+#### :pushpin:**017** - [Number letter counts](https://projecteuler.net/problem=17)
+#### :pushpin:**018** - [Maximum path sum I](https://projecteuler.net/problem=18)
+#### :pushpin:**023** - [Non-abundant sums](https://projecteuler.net/problem=23)
+#### :pushpin:**067** - [Maximum path sum II](https://projecteuler.net/problem=67)
