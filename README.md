@@ -18,5 +18,6 @@
 #### :pushpin:**016** - [Power digit sum](https://projecteuler.net/problem=16)
 #### :pushpin:**017** - [Number letter counts](https://projecteuler.net/problem=17)
 #### :pushpin:**018** - [Maximum path sum I](https://projecteuler.net/problem=18)
+#### :pushpin:**019** - [Counting Sundays](https://projecteuler.net/problem=19)
 #### :pushpin:**023** - [Non-abundant sums](https://projecteuler.net/problem=23)
 #### :pushpin:**067** - [Maximum path sum II](https://projecteuler.net/problem=67)
